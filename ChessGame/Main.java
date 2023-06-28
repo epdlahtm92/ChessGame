@@ -1,3 +1,5 @@
+package ChessGame;
+
 import java.util.Scanner;
 
 public class Main {
